@@ -1,8 +1,6 @@
 # nodejs-api-crud-mongodb
 nodejs + api + crud + mongodb on premise
 
-https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
-
 # Start set up
 $ npm init
 $ npm install --save express mongoose body-parser nodemon
